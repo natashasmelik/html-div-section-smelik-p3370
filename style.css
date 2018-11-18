@@ -1,0 +1,79 @@
+/* CSS files add styling rules to your content */
+
+section#main{
+  margin: 20px;
+   height: 846px;
+ 
+}
+section#sec{
+  width: 510px;
+  height: 120px;
+  
+}
+section#sect{
+  width: 510px;
+  height: 120px;
+
+}
+section#secti{
+  width: 510px;
+  height: 238px;
+
+}
+section#sectio{
+  width: 510px;
+  height: 320px;
+
+}
+section{
+  width: 510px;
+  height: 1000px;
+}
+
+section#sec > div{ 
+  width: 470px;
+  height: 100px;
+  margin-top:40px;
+  margin-left:20px;
+  margin-right:20px;
+  background-color: grey;
+}
+section#sect > div{ 
+  float: left;
+  width: 130px;
+  height: 100px;
+  margin-top:0px;
+  margin-left:20px;
+  margin-right:20px;
+  background-color: pink;
+}
+section#sect > div{ 
+  float: left;
+  width: 130px;
+  height: 100px;
+  margin: 20px;
+  background-color: pink;
+}
+section#secti > div{ 
+  float: left;
+  width: 470px;
+  height: 200px;
+  margin: 20px;
+  background-color: #CC99CC;
+}
+section#secti > div>div{ 
+  float: left;
+  width: 96px;
+  height: 100px;
+  margin: 30px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  background-color: #CCFFCC;
+}
+section#sectio > div{ 
+  width: 470px;
+  height: 100px;
+  margin:20px;
+  margin-top:40px;
+  background-color: grey;
+}
